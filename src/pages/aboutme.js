@@ -27,7 +27,7 @@ function aboutme() {
       placing to cheered do. Few hills tears are weeks saw. Partiality
       insensible celebrated is in. Am offended as wandered thoughts greatest an
       friendly. Evening covered in he exposed fertile to. Horses seeing at
-      played plenty nature to expect we. Young say led stood hills own thing
+      played plenty to expect we. Young say led stood hills own thing
       get. Contented get distrusts certainty nay are frankness concealed ham. On
       unaffected resolution on considered of. No thought me husband or colonel
       forming effects. End sitting shewing who saw besides son musical adapted.
