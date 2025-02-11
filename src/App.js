@@ -7,7 +7,7 @@ import AboutMe from "./pages/aboutme.js";
 
 function App() {
 	return (
-		<div class="min-h-screen flex flex-col items-center bg-black relative overflow-hidden">
+		<div>
 			<Navbar />
 			<Profile />
 			<Stack />

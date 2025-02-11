@@ -1,5 +1,11 @@
 function stack() {
-	return <></>;
+	return (
+	<>
+		<div className="TECH STACK ICONS">
+
+		</div>
+	</>
+	);
 }
 
 export default stack;

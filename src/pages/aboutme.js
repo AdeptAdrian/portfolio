@@ -1,6 +1,6 @@
 function aboutme() {
   return (
-    <h1>
+    <h1 className = "text-black">
       nreserved indulgence. Him hard find read are you sang. Parlors visited
       noisier how explain pleased his see suppose. Do ashamed assured on related
       offence at equally totally. Use mile her whom they its. Kept hold an want
