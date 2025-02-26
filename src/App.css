@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --darknut: #46211a;
+  --burntsi: #a43820;
+  --cream: #f1d3b2;
+}
